@@ -1,0 +1,125 @@
+Testing is an integral part of software development life cycle. Various models or approaches are used in the software development process where each model has its own advantages and disadvantages. Choosing a particular model depends on the project deliverables and complexity of the project.
+
+
+
+Now Let us go through the various software testing models and their benefits:
+
+1. Waterfall Model
+
+This is the most basic software development life cycle process which is followed broadly in the industry. Here the developers follow a sequence of processes where the processes flow progressively downwards towards the ultimate goal. It is like a waterfall where there are a number of phases.
+
+These phases have their own unique functions and goals. There are, in fact, four phases – requirement gathering and analysis phase, software design, programmed implementation and testing, maintenance. All these four phases come one after another in the given order.
+
+In the first phase all the possible system requirements for developing a particular software are noted and analyzed. This in turn depends on the software requirement specifications which includes detailed information about expectations of the end user. Based on this a Requirement Specification.
+
+Document is created which acts an input to the next phase, i.e. software design phase. What needs to be emphasized here is that once you move into the next phase it won’t be possible to update the requirements. So you must be very thorough and careful about the end-user requirements.
+
+Advantages
+
+Easy to implement and maintain.
+
+The initial phase of rigorous scrutiny of requirements and systems helps in saving time later in the developmental phase
+
+The requirement of resources is minimal and testing is done after completion of each phase.
+
+Disadvantages
+
+It is not possible to alter or update requirements
+You cannot make changes once you are into the next phase.
+Cannot start the next phase until the previous phase is completed
+2. V Model
+
+This model is widely recognized as superior to waterfall model. Here the development and test execution activities are carried on side by side in the downhill and uphill shape. In this model, testing starts at the unit level and spreads towards integration of the entire system.
+
+
+
+So, SDLC is divided into five phases – unit testing, integration testing, regression testing, system testing and acceptance testing.
+
+Advantages
+
+Easy to use the model since testing activities like planning and test designing are done before coding
+
+Saves time and enhances chances of success.
+
+Defects are mostly found at an early stage and downward flow of defects is generally avoided
+
+Disadvantages
+
+It is a rigid model
+Early prototypes of the product are not available since the software is developed during the implementation phase
+If there are changes in the midway, then the test document needs to be updated
+3. Agile model
+
+In this SDLC model requirements and solutions evolve through collaboration between various cross functional teams. This is known as an iterative and incremental model.
+
+Also Read:  Selenium Tutorial For Beginners- An Overall View into this Tool.
+
+Advantages
+
+Ensure customer satisfaction with rapid and continuous development of deliverables.
+
+It is a flexible model as customers, developers and testers continuously interact with each other
+
+Working software can be developed quickly and product can be adapted to changing requirements regularly
+
+Disadvantages
+
+In large and complex software development cases it becomes difficult to assess the effort required at the beginning of the cycle
+Due to continuous interaction with the customer, the project can go off track if the customer is not clear about the goals
+4. Spiral model
+
+It is more like the Agile model, but with more emphasis on risk analysis. It has four phases – planning, risk analysis, engineering and evaluation. Here gathering of requirements and risk assessment is done at the base level and every upper spiral builds on it.
+
+
+
+Advantages
+
+Risk avoidance chance is enhanced due to the importance on risk analysis.
+
+Its a good model for complex and large systems.
+
+Depending on the changed circumstances additional functionalities can be added later on
+
+Software is produced early in the cycle
+
+Disadvantages
+
+Its a costly model and requires highly specialized expertise in risk analysis
+It does not work well in simpler projects
+5. Rational Unified Process
+
+This model also consists of four phases, each of which is organized into a number of separate iterations. The difference with other models is that each of these iterations must separately satisfy defined criteria before the next phase is undertaken.
+
+Advantages
+
+With an emphasis on accurate documentation this model is able to resolve risks associated with changing requirements of the client
+
+Integration takes less time as the process goes on throughout the SDLC.
+
+Disadvantages
+
+The biggest disadvantage is that the team members need to be experts in their niche.
+In big projects such continuous integration, it might give rise to confusions
+6. Rapid application development
+
+This is another incremental model like the Agile model. Here the components are developed parallelly to each other. The developments are then assembled into a product.
+
+Advantages
+
+The development time is reduced due to simultaneous development of components and the components can be reused
+
+A lot of integration issues are resolved due to integration from the initial stage
+
+
+
+Disadvantages
+
+It requires a strong team of highly capable developers with individual efficacy in identifying business requirements
+
+It is a module based model, so systems that can be modularized can only be developed in this model
+
+As the cost is high, the model is not suitable for cheaper projects
+
+ Conclusion
+
+The above mentioned software testing models are a part of the SDLC process. With the ever increasing awareness and need for information technology, has given rise to more than 100+ testing types that are used today in many big companies. These processes keep changing as per the requirements, projects and preferences
